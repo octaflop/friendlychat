@@ -8,3 +8,5 @@ xcuserdata/
 GoogleService-Info.plist
 *.sublime-*
 node_modules/
+*.log
+
