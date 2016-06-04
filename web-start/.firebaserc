@@ -1,5 +1,6 @@
 {
   "projects": {
-    "tutorial": "friendlychat-8893e"
+    "tutorial": "friendlychat-8893e",
+    "staging": "friendlychat-8893e"
   }
 }
